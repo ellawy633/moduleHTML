@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2016, 16:50:40
+    Author     : admin
+*/
+
+h2{
+    background-color: violet;
+        color:gold  ;
+        font-family: cursive;
+        font-size: xx-large;
+    
+    
+}
+h5{
+    background-color: aquamarine;
+        color:blue  ;
+        font-family: monospace;
+        font-size: x-large;
+        text-align: center;
+        
+    
+    
+}
